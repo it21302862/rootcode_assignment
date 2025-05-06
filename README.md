@@ -13,6 +13,7 @@ This is a Spring Boot-based Online Library Management System that allows users t
 
 ## 🚀 Tech Stack
 
+- Java 17+
 - Spring Boot
 - Spring Security with JWT
 - JPA (Hibernate)
@@ -45,7 +46,7 @@ src/
 
 ##  Entity Relationship Diagram (ERD)
 
-![Entity Relationship Diagram]("D:\Library\Documents\Github\old-app\rootcode_assignment\ER_Diagram.jpg")
+![Entity Relationship Diagram]("/ER_Diagram.jpg")
 
 > This diagram shows the relationships between `User`, `Book`, and `BorrowRecord` entities.
 
@@ -56,7 +57,7 @@ src/
 
 ##  System Architecture Diagram
 
-![System Architecture Diagram]("D:\Library\Documents\Github\old-app\rootcode_assignment\Architecture_Diagram.jpg")
+![System Architecture Diagram]("/Architecture_Diagram.jpg")
 
 > This system follows a layered architecture:
 - Controller Layer
