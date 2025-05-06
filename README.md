@@ -46,7 +46,7 @@ src/
 
 ##  Entity Relationship Diagram (ERD)
 
-![Entity Relationship Diagram]("/ER_Diagram.jpg")
+![Entity Relationship Diagram](./ER_Diagram.jpg)
 
 > This diagram shows the relationships between `User`, `Book`, and `BorrowRecord` entities.
 
@@ -57,7 +57,7 @@ src/
 
 ##  System Architecture Diagram
 
-![System Architecture Diagram]("/Architecture_Diagram.jpg")
+![System Architecture Diagram](./Architecture_Diagram.jpg)
 
 > This system follows a layered architecture:
 - Controller Layer
